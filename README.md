@@ -41,3 +41,6 @@ Sorting Movies
 Filter Movies
  ![image](https://github.com/user-attachments/assets/2767adb2-ab7f-4197-bb65-d83d3b6c3760)
 
+Upload
+![image](https://github.com/user-attachments/assets/e6c74aa3-687a-4b53-8732-37ad7f6798ad)
+
